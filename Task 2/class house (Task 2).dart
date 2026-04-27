@@ -1,4 +1,4 @@
-// Task 1 => class House
+// Task 2 => class House
 class House{
   int id ;
   double price ;
