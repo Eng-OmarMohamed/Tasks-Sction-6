@@ -6,7 +6,7 @@ class Laptop{
   Laptop({required this.name, required this.id, required this.ram});
 
   void displayDetails(){
-    print("name Is => $name \nid Is => $id \nram is => $ram");
+    print("name Is => $name \nid Is => $id \nram is => $ram'GB'");
     print("              --------------------              ");
   }
 }
